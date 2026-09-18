@@ -1,4 +1,4 @@
-### Luis Rodriguez Cosme
+### Luis A. Rodriguez
 
 Infrastructure engineer in Orlando. I build the platforms other things launch from —
 28 years of it, from datacenter racks to Terraform, AWS, and AI platforms.
